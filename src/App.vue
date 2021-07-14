@@ -24,3 +24,5 @@ export default {
   margin-top: 60px;
 }
 </style>
+
+<i18n src="./en.yaml" locale="en" lang="yaml"></i18n>
